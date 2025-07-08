@@ -8,7 +8,7 @@ const Projects: React.FC = () => {
       title: 'Mindrift – Quiz Web App',
       description: 'A real-time quiz platform supporting 1000+ users, featuring live quizzes, anti-cheating, Firebase sync, leaderboard, and smooth animations.',
       technologies: ['Next.js', 'Firebase', 'Tailwind CSS', 'Firestore', 'Realtime DB'],
-      githubUrl: 'https://github.com/gauravsingh/mindrift',
+      githubUrl: 'https://github.com/GauravSingh094/Mindrift-Quiz',
       liveUrl: null,
       gradient: 'from-indigo-500 to-cyan-600',
       featured: true
